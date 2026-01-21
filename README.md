@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Olá!! Eu sou o Caio Veloso 👋<br>📖 Estudante da Universidade Federal de São Paulo</p>
-<p align="left">Desenvolvedor Back-end
+<p align="left">Foco em Machine Learning e IA 
 
 ###
 
