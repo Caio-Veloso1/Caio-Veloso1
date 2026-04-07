@@ -21,17 +21,6 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Veloso1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Veloso1&layout=compact&langs_count=5&theme=tokyonight&cache_seconds=1800" height="150"/>
-</div>
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
