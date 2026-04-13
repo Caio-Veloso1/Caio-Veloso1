@@ -13,7 +13,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" /> 
-  <img src="https://img.jsdelivr.com/github.com/tensorflow.png" height="40" width="40" alt="TF logo" />
   <img src="https://img.jsdelivr.com/github.com/pytorch.png" height="40" width="40" alt="pytorch logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" />
