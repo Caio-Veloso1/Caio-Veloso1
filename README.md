@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá!! Eu sou o Caio Veloso 👋<br>📖 Estudante da Universidade Federal de São Paulo</p>
+<p align="left">Olá!! Eu sou o Caio Veloso 👋<br>Estudante da Universidade Federal de São Paulo</p>
 <p align="left">Foco em Machine Learning e IA 
 
 ###
@@ -11,32 +11,28 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" /> 
-  <img src="https://img.jsdelivr.com/github.com/pytorch.png" height="40" width="40" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" />
-</div>
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=python,pytorch,tensorflow,sklearn,jupyter,numpy,pandas,matplotlib,seaborn,nltk,,spacy,git,github,linux,docker" />
 
 ###
 
-<h2 align="left">Social Media</h2>
+## GitHub
 
-###
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caio-Veloso1&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caio-Veloso1&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caio-Veloso1&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caio-Veloso1&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caio-Veloso1&theme=dracula&utcOffset=-3" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/caio-veloso-/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="Caio-Veloso1" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="@caiovelos_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
+## Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Veloso1&show_icons=true&theme=dracula" />
+</p>
+
+
+##  Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caio-Veloso1/Caio-Veloso1/output/pacman-contribution-graph-dark.svg">
